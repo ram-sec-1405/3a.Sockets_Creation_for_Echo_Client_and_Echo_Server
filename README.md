@@ -1,7 +1,7 @@
 # 3a.CREATION FOR ECHO CLIENT AND ECHO SERVER USING TCP SOCKETS
 ### NAME   : RAMPRASATH R
 ### REF    : 212223220086
-### DEP    : AIDS
+### DEP    : IT
 # AIM
 To write a python program for creating Echo Client and Echo Server using TCP
 Sockets Links.
